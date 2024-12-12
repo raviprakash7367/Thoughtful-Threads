@@ -1,4 +1,4 @@
-# Thoughtful Threads
+# ThreadLine
 
 Welcome to Thoughtful Threads! This project is a full-stack blog platform designed to enable users to read, like, and comment on blog posts. The application leverages the power of the MERN stack (MongoDB, Express, React, Node.js), Redux Toolkit, and Tailwind CSS for a seamless and responsive user experience.
 
@@ -25,7 +25,7 @@ To get started with Thoughtful Threads, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/itsaman1825/Thoughtful-Threads.git
-    cd Thoughtful-Threads
+    cd ThreadLine
     ```
 
 2. Navigate to the `api` directory and install dependencies:
